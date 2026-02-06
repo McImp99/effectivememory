@@ -17,16 +17,5 @@ Build time: 37 ms
 Lookup time: 18200 ns
 
 
-Java code used for project:
-
-class Sensor {
-    int id;
-    float value;
-
-    Sensor(int id, float value) {
-        this.id = id;
-        this.value = value;
-    }
-}
 
 
